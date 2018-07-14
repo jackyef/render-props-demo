@@ -5,3 +5,7 @@ export const HomeView = Loadable({
   loader: () => import(/* webpackChunkName: "home-view" */ './View'),
   loading: LoaderFullscreen,
 });
+
+// import HomeView from './View';
+
+// export default { HomeView };
