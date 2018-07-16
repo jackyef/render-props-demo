@@ -3,7 +3,7 @@
 Repo ini digunakan untuk menunjukkan contoh penggunaan pola render props di react.
 
 Repo ini dibuat sebagai pelengkap dari tulisan Medium ini:
-[Berkenalan dengan Render Prop di React | Medium](https://medium.com/@jackyef/berkenalan-dengan-render-prop-di-react-be88f1075bfd)
+[Mengenal dengan Render Prop di React | Medium](https://medium.com/@jackyef/berkenalan-dengan-render-prop-di-react-be88f1075bfd)
 
 Repo ini dibuat dengan [boilerplate ini](https://github.com/jackyef/react-boilerplate)
 
@@ -15,6 +15,11 @@ Repo ini dibuat dengan [boilerplate ini](https://github.com/jackyef/react-boiler
 # render-props-demo
 
 This repo is used to demonstrate the usage of the render props pattern in react.
+
+This repo is made for this Medium article:  
+[Understand Render Prop in React | Medium](https://medium.com/@jackyef/understanding-render-prop-in-react-2e7ff2e897fa)
+
+Made with this [boilerplate](https://github.com/jackyef/react-boilerplate)
 
 # How to run in local environment
 1. First type `yarn` to install dependencies
